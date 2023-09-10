@@ -1,0 +1,13 @@
+nrrdtime v.0.0.2
+2022-01-03
+
+- Added CHANGES file.
+- Changes to Makefile to include more documentation files.
+
+--------------------------------------------------------------------------------
+
+nrrdtime v.0.0.1
+2021-12-28
+
+- initial release
+
